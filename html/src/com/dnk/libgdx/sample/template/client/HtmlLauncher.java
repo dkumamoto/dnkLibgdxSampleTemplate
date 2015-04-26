@@ -3,7 +3,7 @@ package com.dnk.libgdx.sample.template.client;
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.backends.gwt.GwtApplication;
 import com.badlogic.gdx.backends.gwt.GwtApplicationConfiguration;
-import com.dnk.libgdx.sample.template.dnkLibgdxSampleTemplate;
+import com.dnk.libgdx.sample.main.dnkLibgdxSampleTemplate;
 
 public class HtmlLauncher extends GwtApplication {
 
